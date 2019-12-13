@@ -1,0 +1,15 @@
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\bin\Debug\netcoreapp2.1\SampleTestApp.deps.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\bin\Debug\netcoreapp2.1\SampleTestApp.runtimeconfig.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\bin\Debug\netcoreapp2.1\SampleTestApp.runtimeconfig.dev.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\bin\Debug\netcoreapp2.1\SampleTestApp.dll
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\bin\Debug\netcoreapp2.1\SampleTestApp.pdb
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.csprojAssemblyReference.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.RazorAssemblyInfo.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.RazorAssemblyInfo.cs
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.AssemblyInfoInputs.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.AssemblyInfo.cs
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.RazorTargetAssemblyInfo.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.dll
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\SampleTestApp\SampleTestApp\obj\Debug\netcoreapp2.1\SampleTestApp.pdb
